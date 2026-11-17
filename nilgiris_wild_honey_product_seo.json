@@ -1,0 +1,143 @@
+{
+  "product": {
+    "name": "Nilgiris Wild Forest Honey",
+    "alternate_name": "Nilgiris Wild Honey – Tribal Harvested Raw Honey",
+    "brand": "Nilgiris Mountain Honey",
+    "url": "https://www.nilgirishoney.com/nilgiris-wild-honey-tribal-harvested-raw-honey",
+    "category": "Raw Wild Forest Honey",
+    "country_of_origin": "India",
+    "region_of_origin": "Gudalur, Nilgiris, Tamil Nadu, India",
+    "source_region": "Nilgiris Biosphere, Tamil Nadu and Karnataka",
+    "description": "Nilgiris Wild Forest Honey is sourced through traditional harvesting practices from Kurumba and Paniya tribal honey collectors in the forests and hills of the Nilgiris region. Carefully naturally filtered and packed in small batches, this multi-floral wild honey is unprocessed and never heated. Each batch is lab-tested for purity. No added sugar or preservatives.",
+    "harvesting": {
+      "method": "Traditional tribal hand harvesting",
+      "collector_communities": [
+        "Kurumba",
+        "Paniya"
+      ],
+      "sourcing_statement": "Directly sourced from tribal honey collectors"
+    },
+    "product_details": {
+      "honey_type": "Wild forest honey – multi-floral",
+      "bee_species": "Apis dorsata (Giant Rock Bee)",
+      "processing": "Raw and unprocessed; never heated",
+      "filtration": "Naturally filtered",
+      "colour": "Deep amber to dark brown; varies by season",
+      "taste": "Bold, complex, earthy-sweet with forest depth",
+      "texture": "Thick; may crystallise naturally",
+      "added_sugar": false,
+      "preservatives_added": false,
+      "lab_tested_for_purity": true,
+      "certification_claim": "FSSAI certified, as stated on the product page",
+      "shelf_life": "24 months",
+      "storage": "Store in a cool, dry place",
+      "available_pack_sizes": [
+        "200 g",
+        "250 g",
+        "500 g",
+        "1 kg"
+      ],
+      "safety_warning": "Not suitable for infants under 1 year"
+    },
+    "seo": {
+      "seo_title": "Nilgiris Wild Forest Honey | Tribal Harvested Raw Honey",
+      "meta_description": "Buy Nilgiris wild forest honey, traditionally sourced from tribal collectors in the Nilgiris. Unprocessed, never heated and lab-tested for purity.",
+      "primary_keyword": "Nilgiris wild honey",
+      "secondary_keywords": [
+        "wild forest honey",
+        "tribal harvested honey",
+        "raw honey from Nilgiris",
+        "Mudumalai forest honey",
+        "unprocessed honey",
+        "Gudalur honey",
+        "tribal sourced honey",
+        "natural forest honey India"
+      ]
+    }
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Nilgiris Wild Forest Honey",
+    "alternateName": "Nilgiris Wild Honey – Tribal Harvested Raw Honey",
+    "description": "Wild multi-floral forest honey sourced through traditional harvesting practices from Kurumba and Paniya tribal honey collectors in the Nilgiris region. Raw, unprocessed, never heated, naturally filtered and lab-tested for purity.",
+    "brand": {
+      "@type": "Brand",
+      "name": "Nilgiris Mountain Honey"
+    },
+    "category": "Raw Wild Forest Honey",
+    "countryOfOrigin": {
+      "@type": "Country",
+      "name": "India"
+    },
+    "url": "https://www.nilgirishoney.com/nilgiris-wild-honey-tribal-harvested-raw-honey",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Honey type",
+        "value": "Wild forest honey – multi-floral"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Bee species",
+        "value": "Apis dorsata (Giant Rock Bee)"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Harvest method",
+        "value": "Traditional tribal hand harvesting"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Processing",
+        "value": "Raw, unprocessed and never heated"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Filtration",
+        "value": "Naturally filtered"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Lab testing",
+        "value": "Lab-tested for purity"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Added sugar",
+        "value": "None"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Preservatives",
+        "value": "None"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Available sizes",
+        "value": "200 g, 250 g, 500 g and 1 kg"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Shelf life",
+        "value": "24 months"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Storage",
+        "value": "Store in a cool, dry place"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Safety warning",
+        "value": "Not suitable for infants under 1 year"
+      }
+    ]
+  },
+  "notes": [
+    "This JSON was prepared from the product page content reviewed on 17 November 2026.",
+    "The page displayed two prices without clearly identifying the selected pack size, so price and Offer data have been omitted.",
+    "Confirm all product claims, certifications, harvest practices and pack sizes before publishing.",
+    "This is portable product metadata. It is not a universal upload format; for Google rich results, add the structured_data object as JSON-LD to the product page rather than uploading the file alone."
+  ]
+}
